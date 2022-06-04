@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.robloxscripts.com	TRUE	/	FALSE	1999999999	__cf_bm	uLVfhV4k9w5l70rAYxo6Txom2.WPDtNMGbvAYIOKueI-1654284586-0-ARnkuXhqCirRiYCOaTKInzzW2vut/9HRceiIaeXpdllAQT1AeZf+4YMmxJnp13UE7oovHVtMi/V361++qdkEu80=
+robloxscripts.com	TRUE	/	FALSE	1999999999	SameSite	None
+
